@@ -1,0 +1,49 @@
+a {
+  text-decoration: none;
+}
+
+.fundo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1e469a;
+  border: 1px solid #1e469a;
+  height: 100vh;
+}
+
+.vue-template {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 350px;
+  margin-top: 40px;
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  padding: 60px 30px 30px 30px;
+  background-color: #eeeeee;
+}
+
+.btn {
+  color: white;
+}
+
+.forgot-password {
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+#spinner {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  z-index: 9999999999;
+}
+
+.row {
+  --bs-gutter-x: 0;
+  --bs-gutter-y: 0;
+}
