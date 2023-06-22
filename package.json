@@ -17,7 +17,7 @@
     "axios": "^0.27.2",
     "fullcalendar": "^5.11.3",
     "liquor-tree": "^0.2.70",
-    "pinia": "^2.0.21",
+    "pinia": "^2.1.3",
     "quasar": "^2.10.0",
     "vue": "^3.2.38",
     "vue-avatar": "^2.3.3",
