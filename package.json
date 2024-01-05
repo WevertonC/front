@@ -14,7 +14,7 @@
     "@popperjs/core": "^2.11.6",
     "@quasar/extras": "^1.15.5",
     "apexcharts": "^3.35.5",
-    "axios": "^0.27.2",
+    "axios": "^1.6.4",
     "fullcalendar": "^5.11.3",
     "liquor-tree": "^0.2.70",
     "pinia": "^2.0.21",
